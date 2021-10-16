@@ -1,0 +1,16 @@
+aiomysql==0.0.21
+alembic==1.7.3
+autopep8==1.5.7
+databases==0.5.2
+fastapi==0.68.1
+fastapi-utils==0.2.1
+mysqlclient==2.0.3
+PyJWT==2.1.0
+PyMySQL==0.9.3
+SQLAlchemy==1.4.25
+uvicorn==0.15.0
+sqlalchemy
+passlib
+bcrypt
+python-jose
+python-multipart
